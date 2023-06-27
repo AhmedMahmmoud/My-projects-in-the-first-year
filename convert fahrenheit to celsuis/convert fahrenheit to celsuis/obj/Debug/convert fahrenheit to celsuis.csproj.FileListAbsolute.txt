@@ -1,0 +1,7 @@
+D:\college of cs\New folder (2)\convert fahrenheit to celsuis\convert fahrenheit to celsuis\bin\Debug\convert fahrenheit to celsuis.exe.config
+D:\college of cs\New folder (2)\convert fahrenheit to celsuis\convert fahrenheit to celsuis\bin\Debug\convert fahrenheit to celsuis.exe
+D:\college of cs\New folder (2)\convert fahrenheit to celsuis\convert fahrenheit to celsuis\bin\Debug\convert fahrenheit to celsuis.pdb
+D:\college of cs\New folder (2)\convert fahrenheit to celsuis\convert fahrenheit to celsuis\obj\Debug\convert fahrenheit to celsuis.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\convert fahrenheit to celsuis\convert fahrenheit to celsuis\obj\Debug\convert fahrenheit to celsuis.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\convert fahrenheit to celsuis\convert fahrenheit to celsuis\obj\Debug\convert fahrenheit to celsuis.exe
+D:\college of cs\New folder (2)\convert fahrenheit to celsuis\convert fahrenheit to celsuis\obj\Debug\convert fahrenheit to celsuis.pdb

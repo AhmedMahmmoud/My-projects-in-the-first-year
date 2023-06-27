@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e3a1d2b1-e04b-4d31-99d4-0c1db4b0fe1f": {
+      "ProjectGuid": "e3a1d2b1-e04b-4d31-99d4-0c1db4b0fe1f",
+      "DisplayName": "Compare three numbers",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

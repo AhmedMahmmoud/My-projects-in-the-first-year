@@ -1,0 +1,8 @@
+D:\college of cs\New folder (2)\radius\radius\bin\Debug\radius.exe.config
+D:\college of cs\New folder (2)\radius\radius\bin\Debug\radius.exe
+D:\college of cs\New folder (2)\radius\radius\bin\Debug\radius.pdb
+D:\college of cs\New folder (2)\radius\radius\obj\Debug\radius.csproj.AssemblyReference.cache
+D:\college of cs\New folder (2)\radius\radius\obj\Debug\radius.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\radius\radius\obj\Debug\radius.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\radius\radius\obj\Debug\radius.exe
+D:\college of cs\New folder (2)\radius\radius\obj\Debug\radius.pdb

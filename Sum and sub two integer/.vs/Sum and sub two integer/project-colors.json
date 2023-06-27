@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6505f467-56dc-4e76-a26c-00f1c63632b0": {
+      "ProjectGuid": "6505f467-56dc-4e76-a26c-00f1c63632b0",
+      "DisplayName": "Sum and sub two integer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

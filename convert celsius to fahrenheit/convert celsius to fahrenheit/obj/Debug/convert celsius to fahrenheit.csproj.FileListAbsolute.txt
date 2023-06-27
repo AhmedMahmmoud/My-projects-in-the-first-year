@@ -1,0 +1,8 @@
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\bin\Debug\convert celsius to fahrenheit.exe.config
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\bin\Debug\convert celsius to fahrenheit.exe
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\bin\Debug\convert celsius to fahrenheit.pdb
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\obj\Debug\convert celsius to fahrenheit.csproj.AssemblyReference.cache
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\obj\Debug\convert celsius to fahrenheit.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\obj\Debug\convert celsius to fahrenheit.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\obj\Debug\convert celsius to fahrenheit.exe
+D:\college of cs\New folder (2)\convert celsius to fahrenheit\convert celsius to fahrenheit\obj\Debug\convert celsius to fahrenheit.pdb

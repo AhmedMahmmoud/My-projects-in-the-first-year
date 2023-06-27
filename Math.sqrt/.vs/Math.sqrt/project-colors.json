@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "31b900ba-9081-4496-a40f-0e8705bc8136": {
+      "ProjectGuid": "31b900ba-9081-4496-a40f-0e8705bc8136",
+      "DisplayName": "Math.sqrt",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

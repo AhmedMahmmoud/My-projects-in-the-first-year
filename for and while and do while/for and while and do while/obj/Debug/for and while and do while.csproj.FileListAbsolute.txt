@@ -1,0 +1,8 @@
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\bin\Debug\for and while and do while.exe.config
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\bin\Debug\for and while and do while.exe
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\bin\Debug\for and while and do while.pdb
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\obj\Debug\for and while and do while.csproj.AssemblyReference.cache
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\obj\Debug\for and while and do while.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\obj\Debug\for and while and do while.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\obj\Debug\for and while and do while.exe
+D:\college of cs\New folder (2)\for and while and do while\for and while and do while\obj\Debug\for and while and do while.pdb

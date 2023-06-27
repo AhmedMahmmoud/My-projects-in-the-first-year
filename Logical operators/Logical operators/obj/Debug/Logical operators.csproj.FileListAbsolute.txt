@@ -1,0 +1,8 @@
+D:\college of cs\New folder (2)\Logical operators\Logical operators\bin\Debug\Logical operators.exe.config
+D:\college of cs\New folder (2)\Logical operators\Logical operators\bin\Debug\Logical operators.exe
+D:\college of cs\New folder (2)\Logical operators\Logical operators\bin\Debug\Logical operators.pdb
+D:\college of cs\New folder (2)\Logical operators\Logical operators\obj\Debug\Logical operators.csproj.AssemblyReference.cache
+D:\college of cs\New folder (2)\Logical operators\Logical operators\obj\Debug\Logical operators.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\Logical operators\Logical operators\obj\Debug\Logical operators.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\Logical operators\Logical operators\obj\Debug\Logical operators.exe
+D:\college of cs\New folder (2)\Logical operators\Logical operators\obj\Debug\Logical operators.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5c411931-e065-4ad9-8efb-c75d134e190d": {
+      "ProjectGuid": "5c411931-e065-4ad9-8efb-c75d134e190d",
+      "DisplayName": "The distance between two points",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

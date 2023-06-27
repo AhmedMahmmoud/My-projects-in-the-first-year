@@ -1,0 +1,7 @@
+D:\college of cs\New folder (2)\compound operators\compound operators\bin\Debug\compound operators.exe.config
+D:\college of cs\New folder (2)\compound operators\compound operators\bin\Debug\compound operators.exe
+D:\college of cs\New folder (2)\compound operators\compound operators\bin\Debug\compound operators.pdb
+D:\college of cs\New folder (2)\compound operators\compound operators\obj\Debug\compound operators.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\compound operators\compound operators\obj\Debug\compound operators.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\compound operators\compound operators\obj\Debug\compound operators.exe
+D:\college of cs\New folder (2)\compound operators\compound operators\obj\Debug\compound operators.pdb

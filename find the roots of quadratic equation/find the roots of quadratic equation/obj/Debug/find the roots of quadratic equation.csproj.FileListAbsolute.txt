@@ -1,0 +1,8 @@
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\bin\Debug\find the roots of quadratic equation.exe.config
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\bin\Debug\find the roots of quadratic equation.exe
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\bin\Debug\find the roots of quadratic equation.pdb
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\obj\Debug\find the roots of quadratic equation.csproj.AssemblyReference.cache
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\obj\Debug\find the roots of quadratic equation.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\obj\Debug\find the roots of quadratic equation.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\obj\Debug\find the roots of quadratic equation.exe
+D:\college of cs\New folder (2)\find the roots of quadratic equation\find the roots of quadratic equation\obj\Debug\find the roots of quadratic equation.pdb

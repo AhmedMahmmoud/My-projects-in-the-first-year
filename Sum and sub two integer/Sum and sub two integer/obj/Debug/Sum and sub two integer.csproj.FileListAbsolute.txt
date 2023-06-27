@@ -1,0 +1,8 @@
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\bin\Debug\Sum and sub two integer.exe.config
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\bin\Debug\Sum and sub two integer.exe
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\bin\Debug\Sum and sub two integer.pdb
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\obj\Debug\Sum and sub two integer.csproj.AssemblyReference.cache
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\obj\Debug\Sum and sub two integer.csproj.SuggestedBindingRedirects.cache
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\obj\Debug\Sum and sub two integer.csproj.CoreCompileInputs.cache
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\obj\Debug\Sum and sub two integer.exe
+E:\Ahmed Barakat\College of CS\First year\1st term\Programming\programming apps\New folder (2)\Sum and sub two integer\Sum and sub two integer\obj\Debug\Sum and sub two integer.pdb

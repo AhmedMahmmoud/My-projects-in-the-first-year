@@ -1,0 +1,8 @@
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\bin\Debug\Arthmatic operators.exe.config
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\bin\Debug\Arthmatic operators.exe
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\bin\Debug\Arthmatic operators.pdb
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\obj\Debug\Arthmatic operators.csproj.AssemblyReference.cache
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\obj\Debug\Arthmatic operators.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\obj\Debug\Arthmatic operators.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\obj\Debug\Arthmatic operators.exe
+D:\college of cs\New folder (2)\Arthmatic operators\Arthmatic operators\obj\Debug\Arthmatic operators.pdb

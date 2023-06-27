@@ -1,0 +1,8 @@
+D:\college of cs\New folder (2)\Net salary\Net salary\obj\Debug\Net salary.csproj.AssemblyReference.cache
+D:\college of cs\New folder (2)\Net salary\Net salary\obj\Debug\Net salary.csproj.SuggestedBindingRedirects.cache
+D:\college of cs\New folder (2)\Net salary\Net salary\obj\Debug\Net salary.csproj.CoreCompileInputs.cache
+D:\college of cs\New folder (2)\Net salary\Net salary\bin\Debug\Net salary.exe.config
+D:\college of cs\New folder (2)\Net salary\Net salary\bin\Debug\Net salary.exe
+D:\college of cs\New folder (2)\Net salary\Net salary\bin\Debug\Net salary.pdb
+D:\college of cs\New folder (2)\Net salary\Net salary\obj\Debug\Net salary.exe
+D:\college of cs\New folder (2)\Net salary\Net salary\obj\Debug\Net salary.pdb
