@@ -2,7 +2,7 @@
 ## Here are some of my first year projects, which I created using C#.
 ### At the time when I created these projects, I didn't have any prior programming background. I know these projects are fairly easy, but it wasn't easy at the time of course because I was a beginner.
 - في ذلك الوقت التي أنشأت هذه المشاريع فيه ،  لم يكن لدي أي خلفية مسبقة عن البرمجة أنا أعلم ان هذه المشاريع سهله إلي حد ما ، ولكنها لم تكن سهلة وقتها بالطبع لأنني كنت مبتدئ
-```diff
+
 - Go to the master's branch, you will find all folders
 
 - إذهب إلى master's branch ستجد كل الفولدرات
